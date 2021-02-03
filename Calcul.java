@@ -1,3 +1,8 @@
+/**
+ * @author Isabelle Provost
+ * Session H2021
+ */
+
 public class Calcul {
 
     public static int addition(int n1, int n2){
